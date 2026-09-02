@@ -11,8 +11,8 @@ Cada exercício vive em seu próprio arquivo/pacote Kotlin, agrupado por conceit
 ## Lista de exercícios
 
 ### Controle de fluxo
-- [ ] `classificarNota(nota: Double): String` usando `when` sem argumento
-- [ ] Tabuada (1 a 10) de um número usando `for`
+- [X] `classificarNota(nota: Double): String` usando `when` sem argumento
+- [X] Tabuada (1 a 10) de um número usando `for` (joinToString usado)
 - [ ] Menu numerado a partir de uma `List<String>`, usando `withIndex()`
 
 ### Funções
